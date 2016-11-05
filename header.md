@@ -8,5 +8,5 @@ html header:    <meta http-equiv="refresh" content="5">
 
 # Command History
 
-```python
+```bash
 
