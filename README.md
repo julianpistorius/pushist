@@ -7,7 +7,7 @@
 - Run command to output history and tail it
 
 ```bash
-export PROMPT_COMMAND="history 1 >> ~/tmp/history.txt"
+export PROMPT_COMMAND="history 1 >> /tmp/history.txt"
 ```
 
 - Start watching for changes outside of screen
